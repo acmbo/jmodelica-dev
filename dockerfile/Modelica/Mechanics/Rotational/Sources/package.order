@@ -1,0 +1,14 @@
+Position
+Speed
+Accelerate
+Move
+Torque
+Torque2
+InverseSpeedDependentTorque
+LinearSpeedDependentTorque
+QuadraticSpeedDependentTorque
+ConstantTorque
+SignTorque
+ConstantSpeed
+TorqueStep
+EddyCurrentTorque

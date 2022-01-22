@@ -1,0 +1,12 @@
+time
+J1.phi
+J1.w
+clutch1.phi_rel
+clutch1.w_rel
+clutch2.phi_rel
+clutch2.w_rel
+clutch3.phi_rel
+clutch3.w_rel
+clutch1.mode
+clutch2.mode
+clutch3.mode

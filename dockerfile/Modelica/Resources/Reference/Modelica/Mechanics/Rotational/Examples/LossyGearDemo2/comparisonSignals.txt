@@ -1,0 +1,5 @@
+time
+Inertia2.phi
+Inertia2.w
+bearingFriction.mode
+gear.mode

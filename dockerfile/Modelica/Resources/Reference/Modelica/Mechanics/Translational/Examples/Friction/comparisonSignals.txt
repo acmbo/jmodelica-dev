@@ -1,0 +1,10 @@
+time
+mass.s
+mass.v
+stop1.s
+stop1.v
+stop2.s
+stop2.v
+stop1.mode
+stop2.mode
+supportFriction.mode
