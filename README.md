@@ -1,5 +1,5 @@
-# jmodelica-dev
-Docker Container for development with JModelica
+# Jmodelica-dev
+Jupyter Notebook Docker Container for development with JModelica
 
 
 ## Compile FMU inside Container
